@@ -1,0 +1,7 @@
+{
+  "name": "PayGuardX",
+  "description": "A secure UPI-like payment demonstration app featuring advanced fraud detection, safe mode patterns, and real-time transaction monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
